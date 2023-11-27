@@ -36,6 +36,6 @@
 	?>
 	</button>
     </form><br>
-    <a href="aff.php"></a>
+    <a href="aff.php">AFFICHER</a>
 </body>
 </html>
